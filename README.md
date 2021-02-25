@@ -1,2 +1,0 @@
-# Logpass
-akun Login Termux
